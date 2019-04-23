@@ -12,6 +12,6 @@ v2ray config
 
 
 ------
-1. 参考v2ray文档
+1. 参考v2ray白话文教程 https://toutyrater.github.io/
 2. 参考routing配置 https://toutyrater.github.io/basic/routing/cndirect.html
-3. 参考项目：https://github.com/zw963/asuswrt-merlin-transparent-proxy
+3. 参考项目 https://github.com/zw963/asuswrt-merlin-transparent-proxy
