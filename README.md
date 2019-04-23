@@ -7,6 +7,7 @@ v2ray config
 4. 复制S80v2ray到 /opt/etc/init.d
 5. 启动v2ray，可以执行restart.sh
 6. 执行iptable_add.sh
+7. 访问http://www.ip111.cn/ 查看是否透明代理成功
 
 
 
